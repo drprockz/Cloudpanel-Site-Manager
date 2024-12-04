@@ -31,4 +31,4 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: build/
-          target: /home/simpleinc-sitemanager/htdocs/www.sitemanager.simpleinc.in
+          target: /home/simpleinc-sitemanager/htdocs/www.sitemanager.simpleinc.in/
