@@ -21,7 +21,7 @@ const App = () => {
 
     return (
         <div>
-            <h1>Website List</h1>
+            <h1>Website Lists</h1>
             <table>
                 <thead>
                     <tr>
